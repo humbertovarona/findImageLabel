@@ -18,8 +18,8 @@ Check if an image contains a label
 
 # Functions list
 
-- extract_Alllabels: Read all variables of NetCDF file
-- find_label: Write all variable into CSV file
+- extract_Alllabels: Search all the labels in an image through an OCR
+- find_label: Returns "true" if a label is found on an image
 
 # How to install
 
