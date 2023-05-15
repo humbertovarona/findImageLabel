@@ -23,9 +23,14 @@ Check if an image contains a label
 
 # How to install
 
-- import cv2
+## import cv2
 
+- Open File > Settings > Project from the PyCharm menu.
+- Select your current project.
+- Click the Python Interpreter tab within your project tab.
+- Click the small + symbol to add a new library to the project.
+- Now type in the library to be installed, in your example "opencv-python" without quotes, and click Install Package.
 
-- import pytesseract
+## import pytesseract
 
 
