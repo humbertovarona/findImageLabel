@@ -33,4 +33,27 @@ Check if an image contains a label
 
 ## import pytesseract
 
+- On Linux
 
+sudo apt-get install libleptonica-dev tesseract-ocr libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
+
+- On Mac
+
+brew install tesseract
+
+- On Windows
+
+download binary from https://github.com/UB-Mannheim/tesseract/wiki. then add pytesseract.pytesseract.tesseract_cmd = 'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe' to your script.
+
+## Install library
+
+- On Linux and Mac
+
+pip install tesseract 
+
+pip install tesseract-ocr
+
+- On Windows
+
+pip install pytesseract 
+pip install tesseract
