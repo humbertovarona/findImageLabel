@@ -56,4 +56,6 @@ pip install tesseract-ocr
 - On Windows
 
 pip install pytesseract 
+
 pip install tesseract
+
