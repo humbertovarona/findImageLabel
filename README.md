@@ -9,6 +9,7 @@ Check if an image contains a label
 # Release date
 
 December, 2, 2022
+![](https://img.shields.io/badge/Release%20date-Dec%2C%202%2C%202022-9cf)
 
 # License
 
