@@ -1,8 +1,10 @@
 # findImageLabel
 
+Check if an image contains a label
+
 # Version
 
-1.0
+![](https://img.shields.io/badge/Version%3A-1.0-success)
 
 # Release date
 
@@ -10,11 +12,7 @@ December, 2, 2022
 
 # License
 
-MIT
-
-# Description
-
-Check if an image contains a label
+![](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
 
 # Functions list
 
