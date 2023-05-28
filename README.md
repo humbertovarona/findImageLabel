@@ -20,9 +20,7 @@ Check if an image contains a label
 
 # OS
 
-<img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/>
 
 # Functions list
 
