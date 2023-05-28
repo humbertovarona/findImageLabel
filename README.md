@@ -8,12 +8,21 @@ Check if an image contains a label
 
 # Release date
 
-December, 2, 2022
 ![](https://img.shields.io/badge/Release%20date-Dec%2C%202%2C%202022-9cf)
 
 # License
 
 ![](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+
+# Programming language
+
+<img src="https://img.icons8.com/?size=512&id=13441&format=png" width="50"/>
+
+# OS
+
+<img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/>
 
 # Functions list
 
